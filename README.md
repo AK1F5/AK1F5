@@ -23,6 +23,14 @@ I'm exploring cloud engineering, security, and software development through hand
 
 ## Open-source workspace
 
+### CIS3590 course repository
+
+- **My fork:** [AK1F5/YoungFolks](https://github.com/AK1F5/YoungFolks)
+- **Assigned upstream:** [studentgreg/YoungFolks](https://github.com/studentgreg/YoungFolks)
+- **Purpose:** A workspace for upcoming course assignments and practice with branches, commits, and pull requests.
+
+### Cloud and security exploration
+
 My [IAM-Dashboard fork](https://github.com/AK1F5/IAM-Dashboard) is based on [AWS-IAM-Dashboard/IAM-Dashboard](https://github.com/AWS-IAM-Dashboard/IAM-Dashboard). It provides a workspace for exploring identity and access management and practicing development with an upstream repository.
 
 ## What I'm learning
