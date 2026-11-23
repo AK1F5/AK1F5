@@ -18,7 +18,7 @@ I'm exploring cloud engineering, security, and software development through hand
 | [ClearVest](https://github.com/wakeensito/ClearVest) | Collaborative investing application. My recent contributions include a React/TypeScript workspace, a contextual investing companion, and asynchronous price-history refresh work. |
 | [Fitness & Wellness Tracker](https://github.com/aperez-999/fitness-wellness-tracker) | A collaborative project where I'm contributing code and practicing a shared development workflow. |
 | [Next Wave — SharkByte 2025](https://github.com/AK1F5/sharkbyte2025) | An AI-powered career pathway planning platform developed for MDC North Campus. |
-| [Spotify Visual](https://github.com/AK1F5/Spotify-Visual) | A JavaScript project in my portfolio. |
+| [GuardDuty S3 Incident Response](https://github.com/AK1F5/guardduty-incident-response) | A Python tool that links GuardDuty alerts to CloudTrail events and checks S3 public access settings before an analyst closes the case. |
 | [Personal Portfolio](https://github.com/AK1F5/akif-portfolio) | A dedicated space for presenting my work and professional background. |
 
 ## Open-source workspace
